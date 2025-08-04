@@ -3,7 +3,7 @@
 # Corrida de Emojis Agros
 Este é um jogo feito o p5.js, onde emojis correm até a linha de chegada. Cada jogador usa uma tecla do teclado para fazer seu emoji andar. O jogo tem vídeo e música de fundo para deixar tudo mais dinamico.
 
-#🕹 Como funciona
+# Como funciona
 Cada emoji é um jogador e é controlado por uma tecla:
 
 a = 🧔🏻‍♂️
